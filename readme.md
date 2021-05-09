@@ -1,5 +1,3 @@
-![AXINITE](logo.svg)
-
 # REACT + CODEIGNITER4
 
 ## React and Codeigniter4 development setup example.
